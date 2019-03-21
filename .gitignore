@@ -1,3 +1,5 @@
+catboost_info/*
+
 # predict-future-sales directory
 predict-future-sales/data/*
 predict-future-sales/outcome/*
