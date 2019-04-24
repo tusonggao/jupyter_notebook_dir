@@ -31,6 +31,8 @@ code_for_kesci/outcome/*
 *.xlsx
 *.txt
 
+*.h5
+
 # zipped files
 *.zip
 *.rar
