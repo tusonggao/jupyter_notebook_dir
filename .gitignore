@@ -10,6 +10,9 @@ mission/
 nohup.out
 .ipynb_checkpoints/
 
+# Bert中间状态数据
+bert_state_dict/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
